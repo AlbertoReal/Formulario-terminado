@@ -1,0 +1,125 @@
+{
+  "questions": {
+    "question": [
+      {
+        "-id": "profe001",
+        "type": "text",
+        "title": "Cual es la frequencia de linea de una red electrica de 220v ",
+        "answer": "50hz"
+      },
+      {
+        "-id": "profe002",
+        "type": "text",
+        "title": "Si se requiere una tension de +-12V necesitaremos una fuente de tipo",
+        "answer": "simetrica"
+      },
+      {
+        "-id": "profe005",
+        "type": "select",
+        "title": "Cual de las siguientes componentes permite paso de corriente en un solo sentido",
+        "option": [
+          "Diodo",
+          "Condensador",
+          "Bobina"
+        ],
+        "answer": "0"
+      },
+      {
+        "-id": "profe006",
+        "type": "select",
+        "title": "Si queremos una resistencia de 220 ohmios de que colores tendra esta",
+        "option": [
+          "azul azul rojo verde",
+          "naranja amarillo azul verde",
+          "rojo rojo negro negro"
+        ],
+        "answer": "2"
+      },
+      {
+        "-id": "profe007",
+        "type": "multiple",
+        "title": "Cual de la siguientes (pueden ser mas de una) son propiedades de una señal de tipo senoidal",
+        "option": [
+          "Amplitud",
+          "Frequencia",
+          "Fase",
+          "Angulo"
+        ],
+        "answer": [
+          "0",
+          "1",
+          "2"
+        ]
+      },
+      {
+        "-id": "profe008",
+        "type": "multiple",
+        "title": "Cuales de los siguientes son tipos de transistores",
+        "option": [
+          "NPN",
+          "PNP",
+          "VPN",
+          "NPV"
+        ],
+        "answer": [
+          "0",
+          "1"
+        ]
+      },
+      {
+        "-id": "profe009",
+        "type": "chekbox",
+        "title": "Que es y para que se usa un PTR",
+        "option": [
+          "Es un dispositivo que instala la compañia telefonica en una instalacion habitual",
+          "Es un dispositivo que separa la red telefonica privada del usuario de la de la empresa",
+          "Permite conectar mas de un telefono a una misma linea telefonica",
+          "Ninguna de las anteriores"
+        ],
+        "answer": [
+          "0",
+          "1"
+        ]
+      },
+      {
+        "-id": "profe0010",
+        "type": "chekbox",
+        "title": "cual de los siguientes elementos de seguridad protege a los usuarios.",
+        "option": [
+          "Magnetotermico",
+          "Diferencial",
+          "Icp",
+          "Interruptor General"
+        ],
+        "answer": [
+          "1",
+          "3"
+        ]
+      },
+      {
+        "-id": "profe003",
+        "type": "radius",
+        "title": "Si queremos eliminar una señal de una frequencia especifica que tipo de circuito necesitaremos",
+        "option": [
+          "Un filtro eliminabanda",
+          "Un filtro pasa bajos",
+          "Un filtro Pasa altos",
+          "ninguno de los asnteriores"
+        ],
+        "answer": "0"
+      },
+      {
+        "-id": "profe004",
+        "type": "radius",
+        "title": "Cual de los siguientes componentes no pertenece a un circuito RLC",
+        "option": [
+          "Transistor",
+          "Condensador",
+          "Bobina",
+          "Resistencia"
+        ],
+        "answer": "0"
+      }
+    ]
+  }
+}
