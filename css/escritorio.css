@@ -96,16 +96,19 @@ a{
 	height: 100%;
 	top: 5%;
 	float:left;
+	font-size: 25px;
 }
 #a2{
 	width: 33.3%;
 	height: 100%;
 	float:left;
+	font-size: 25px;
 }
 #a3{
 	width: 33.3%;
 	height: 100%;
 	float:left;
+	font-size: 25px;
 }
 #menu1{
 	background-color: #B0BDD5;
