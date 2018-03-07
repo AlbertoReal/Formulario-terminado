@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!ELEMENT questions (question+)>
+<!ELEMENT questions (questions)>
 <!ELEMENT question (type,title,option*,answer+)>
 <!ATTLIST question id ID #REQUIRED>
 <!ELEMENT type (#PCDATA)>
