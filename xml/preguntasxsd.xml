@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<questions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="preguntas.xsd">
+ <question id='profe001'>
+  <type>text</type>
+  <title>Cual es la frequencia de linea de una red electrica de 220v </title>
+  <answer>50hz</answer>
+ </question>
+ <question id='profe002'>
+  <type>text</type>
+  <title>Si se requiere una tension de +-12V necesitaremos una fuente de tipo</title>
+  <answer>simetrica</answer>
+ </question>
+  <question id='profe005'>
+  <type>select</type>
+  <title>Cual de las siguientes componentes permite paso de corriente en un solo sentido</title>
+  <option>Diodo</option>
+  <option>Condensador</option> 
+  <option>Bobina</option>
+  <answer>0</answer> <!-- SelectedIndex = 0, 1 ó 2 , 2 vol dir la tercera opciói -->
+ </question>
+ <question id='profe006'>
+  <type>select</type>
+  <title>Si queremos una resistencia de 220 ohmios de que colores tendra esta</title>
+  <option>azul azul rojo verde</option>
+  <option>naranja amarillo azul verde</option> 
+  <option>rojo rojo negro negro</option>
+  <answer>2</answer> <!-- SelectedIndex = 0, 1 ó 2 , 2 vol dir la tercera opciói -->
+ </question>
+  <question id='profe007'>
+  <type>multiple</type>
+  <title>Cual de la siguientes (pueden ser mas de una) son propiedades de una señal de tipo senoidal</title>
+  <option>Amplitud</option>
+  <option>Frequencia</option> 
+  <option>Fase</option> 
+  <option>Angulo</option>
+  <answer>0</answer>
+  <answer>1</answer>
+  <answer>2</answer>
+ </question>
+<question id='profe008'>
+  <type>multiple</type>
+  <title>Cuales de los siguientes son tipos de transistores</title>
+  <option>NPN</option>
+  <option>PNP</option> 
+  <option>VPN</option> 
+  <option>NPV</option>
+  <answer>0</answer>
+  <answer>1</answer>
+ </question>
+ <question id='profe009'>
+  <type>chekbox</type>
+  <title>Que es y para que se usa un PTR</title>
+  <option>Es un dispositivo que instala la compañia telefonica en una instalacion habitual</option>
+  <option>Es un dispositivo que separa la red telefonica privada del usuario de la de la empresa</option> 
+  <option>Permite conectar mas de un telefono a una misma linea telefonica</option>
+  <option>Ninguna de las anteriores</option> 
+  <answer>0</answer>
+  <answer>1</answer>
+ </question>
+<question id='profe0010'>
+  <type>chekbox</type>
+  <title>cual de los siguientes elementos de seguridad protege a los usuarios.</title>
+  <option>Magnetotermico</option>
+  <option>Diferencial</option> 
+  <option>Icp</option>
+  <option>Interruptor General</option>
+  <answer>1</answer>
+  <answer>3</answer>
+ </question>
+ <question id='profe003'>
+  <type>radius</type>
+  <title>Si queremos eliminar una señal de una frequencia especifica que tipo de circuito necesitaremos</title>
+  <option>Un filtro eliminabanda</option>
+  <option>Un filtro pasa bajos</option> 
+  <option>Un filtro Pasa altos</option> 
+  <option>ninguno de los asnteriores</option> 
+  <answer>0</answer>
+ </question><question id='profe004'>
+  <type>radius</type>
+  <title>Cual de los siguientes componentes no pertenece a un circuito RLC</title>
+  <option>Transistor</option>
+  <option>Condensador</option> 
+  <option>Bobina</option> 
+  <option>Resistencia</option>
+  <answer>0</answer>
+ </question>
+</questions>
