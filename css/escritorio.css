@@ -84,6 +84,7 @@ input{
 	height: 15%;
 	background-color : #B0BDD5;
 	border-bottom: 5px solid #FB8E41;
+	border-top: 5px solid #FB8E41;
 	text-align: center;
 }
 a{
@@ -106,13 +107,56 @@ a{
 	height: 100%;
 	float:left;
 }
-#menu_a{
+#menu1{
 	background-color: #B0BDD5;
-	height: 55%;
+	height: 40%;
 	width: 100%;
 	border-bottom: 5px solid #FB8E41;
 	border-top: 5px solid #FB8E41;
 	font-size: 25px;
+	display:none;
+}
+#menu2{
+	background-color: #B0BDD5;
+	height: 40%;
+	width: 100%;
+	border-bottom: 5px solid #FB8E41;
+	border-top: 5px solid #FB8E41;
+	font-size: 25px;
+	display:none;
+}
+#menu3{
+	background-color: #B0BDD5;
+	height: 40%;
+	width: 100%;
+	border-bottom: 5px solid #FB8E41;
+	border-top: 5px solid #FB8E41;
+	font-size: 25px;
+	display:none;
+}
+#menu_c{
+	background-color: red;
+	height: 55%;
+	width: 100%
+	display:none;
+}
+#a1:hover{
+	background-color: #FB8E41;
+}
+#a1{
+	background-color: #B0BDD5;
+}
+#a2:hover{
+	background-color: #FB8E41;
+}
+#a2{
+	background-color: #B0BDD5;
+}
+#a3:hover{
+	background-color: #FB8E41;
+}
+#a3{
+	background-color: #B0BDD5;
 }
 input[type=text] {
     width: 30%;

@@ -85,6 +85,7 @@ input{
 	height: 15%;
 	background-color : #B0BDD5;
 	border-bottom: 5px solid #FB8E41;
+	border-top: 5px solid #FB8E41;
 	text-align: center;
 }
 a{
@@ -92,30 +93,52 @@ a{
 	color:black;
 }
 #a1{
+	background-color: #B0BDD5;
 	width: 33.3%;
 	height: 100%;
-	top: 5%;
 	float:left;
 }
+
 #a2{
+	background-color: #B0BDD5;
 	width: 33.3%;
 	height: 100%;
 	float:left;
 }
+
 #a3{
+	background-color: #B0BDD5;
 	width: 33.3%;
 	height: 100%;
 	float:left;
 }
-#menu_a{
-	background-color:  #B0BDD5;
-	height: 55%;
+#menu1{
+	background-color: #B0BDD5;
+	height: 40%;
 	width: 100%;
 	border-bottom: 5px solid #FB8E41;
 	border-top: 5px solid #FB8E41;
 	font-size: 25px;
+	display:none;
 }
-
+#menu2{
+	background-color: #B0BDD5;
+	height: 40%;
+	width: 100%;
+	border-bottom: 5px solid #FB8E41;
+	border-top: 5px solid #FB8E41;
+	font-size: 25px;
+	display:none;
+}
+#menu3{
+	background-color: #B0BDD5;
+	height: 40%;
+	width: 100%;
+	border-bottom: 5px solid #FB8E41;
+	border-top: 5px solid #FB8E41;
+	font-size: 25px;
+	display:none;
+}
 input[type=text] {
     width: 80%;
     padding: 2% 2%;
