@@ -1,6 +1,6 @@
  # Examen electronica
 
-https://rawgit.com/AlbertoReal/Formulario-terminado/master/portada.html
+https://rawgit.com/AlbertoReal/Formulario-terminado/formulario-mimified/portada.html
 
 En esta practica se ha realizado un formulario con autocorrección, dicho formulario cuenta con:
 
